@@ -1,0 +1,2 @@
+REcomplier outputs -1 as the second state number where both states are the same and -1 for both state
+numbers when it is the last state, REsearcher accounts for this and corrects it during the FSM creation.
